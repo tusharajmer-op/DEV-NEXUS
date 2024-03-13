@@ -1,0 +1,18 @@
+{"level":"info","message":"::1GET /admin/roles "}
+{"level":"error","message":"Token expired please login again to continue"}
+{"level":"info","message":"::1GET /admin/roles "}
+{"level":"error","message":"TOKENEXPIREDERROR"}
+{"level":"info","message":"::1POST /user/login "}
+{"level":"info","message":"::1GET /admin/roles "}
+{"level":"info","message":"::1GET /admin/departments "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
+{"level":"info","message":"::1DELETE /admin/roles/1623 "}
